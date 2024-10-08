@@ -1,9 +1,3 @@
-"""
-Shwetha Ajay
-IDSN 542, Fall 2024
-shwethaa@usc.edu
-Homework 2
-"""
 import random
 import string
 
