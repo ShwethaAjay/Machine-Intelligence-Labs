@@ -1,10 +1,3 @@
-""""
-Shwetha Ajay
-IDSN 542, Fall 2024
-shwethaa@usc.edu
-Lab 2
-"""
-
 # Initialize counter to count vowels
 counter = 0
 
