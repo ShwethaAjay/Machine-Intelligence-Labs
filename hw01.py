@@ -1,10 +1,3 @@
-"""
-Shwetha Ajay
-IDSN 542, Fall 2024
-shwethaa@usc.edu
-Homework 1
-"""
-
 # Part 1: Prompt for input
 # Ask for the person's name whose BMI is being calculated
 name = input("Hello! Who's BMI is being calculated? ")
