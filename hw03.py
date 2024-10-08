@@ -1,11 +1,4 @@
 """
-Shwetha Ajay
-IDSN 542, Fall 2024
-shwethaa@usc.edu
-Homework 3
-"""
-
-"""
 Part 1: Months dictionary
 """
 months = {'January': 31, 'February': 28, 'March': 31, 'April': 30,
