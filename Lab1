@@ -1,0 +1,48 @@
+#Printing list of available specials
+print("Hello! The following specials are available : ",'\n',"1. Mediterranean",'\n',
+      "2. Italian",'\n',"3. Asian",'\n',"4. American",'\n')
+
+#Prompting the user to choose a special
+choiceSpecial = input("What special would you like to order from? ")
+
+#Displaying the food items avilable for the user's choice of special
+if choiceSpecial.lower() == "mediterranean":
+    print('\n',"The following items are available : ", '\n', "1. Hummus", '\n',"2. Chicken Souvlaki",'\n', "3. Baklava",'\n')
+    # Prompting the user to choose a food item
+    food = input("Please choose a food option : ")
+    # Checking if the selected food item is available
+    if food.lower() in ("hummus", "chicken souvlaki", "baklava"):
+        # Printing out the user’s choices for their special and their food option
+        print("That's ", food.title(), " from ", choiceSpecial.title(), "special.")
+    else:
+        print("Sorry! We don't serve the food you requested for in this special.")
+
+elif choiceSpecial.lower() == "italian":
+  print('\n',"The following items are available : ",'\n',"1. Bruschetta",'\n',"2. Pizza",'\n',"3. Tiramisu",'\n')
+  food = input("Please choose a food option : ")
+  if food.lower() in ("bruschetta", "pizza", "tiramisu"):
+      print("That's ", food.title(), " from ", choiceSpecial.title(), "special.")
+  else:
+      print("Sorry! We don't serve the food you requested for in this special.")
+
+elif choiceSpecial.lower() == "asian":
+  print('\n',"The following items are available : ",'\n',"1. Ramen",'\n',"2. Chicken Pad Thai",'\n',"3. Mango Rice",'\n')
+  food = input("Please choose a food option : ")
+  if food.lower() in ("ramen", "chicken pad thai", "mango rice"):
+      print("That's ", food.title(), " from ", choiceSpecial.title(), "special.")
+  else:
+      print("Sorry! We don't serve the food you requested for in this special.")
+
+elif choiceSpecial.lower() == "american":
+  print('\n',"The following items are available : ",'\n',"1. Pancakes",'\n',"2. Fried Chicken",'\n',"3. Apple Pie",'\n')
+  food = input("Please choose a food option : ")
+  if food.lower() in ("pancakes", "fried chicken", "apple pie"):
+      print("That's ", food.title(), " from ", choiceSpecial.title(), "special.")
+  else:
+      print("Sorry! We don't serve the food you requested for in this special.")
+
+else:
+    print("Sorry! We don't serve that special")
+
+print("Thank You!")
+
