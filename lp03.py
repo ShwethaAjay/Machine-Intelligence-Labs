@@ -1,10 +1,3 @@
-"""
-Shwetha Ajay
-IDSN 542, Fall 2024
-shwethaa@usc.edu
-Lab 3
-"""
-
 # List of science fiction curse words to censor
 forbiddenWords = ["fren", "frak", "drel", "grob", "glud", "zarf", "nar"]
 
