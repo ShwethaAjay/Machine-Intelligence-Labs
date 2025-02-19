@@ -1,0 +1,15 @@
+﻿Batman|intelligence,combat skills,gadgets|8
+Wonder Woman|strength,agility,lasso of truth|7
+Spider-Man|agility,wall-crawling,spider sense|6
+Iron Man|armor,flight,energy blasts|5
+The Flash|super speed,time travel,intelligence|6
+Thor|strength,lightning,flight,immortality|9
+Black Panther|combat skills,enhanced senses,agility|7
+Captain Marvel|strength,flight,energy manipulation|8
+Doctor Strange|magic,dimensional travel,teleportation|6
+Green Lantern|power ring,flight,construct creation|5
+Aquaman|water control,communication with sea life,strength|6
+Hulk|strength,regeneration,durability|10
+Scarlet Witch|reality manipulation,telekinesis,magic|7
+Wolverine|healing factor,claws,super senses|8
+Deadpool|regeneration,combat skills,immortality|6
